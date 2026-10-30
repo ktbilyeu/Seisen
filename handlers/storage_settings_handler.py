@@ -139,7 +139,7 @@ class StorageSettingsHandler():
 
             Toolkit.clear_console()
 
-            print("Permission error, you likely have the config folder/files open. Please close all of that and try again. If issue persists contact Bikatr7 on github.\n")
+            print("Permission error, you likely have the config folder/files open. Please close all of that and try again. If issue persists contact ktbilyeu on GitHub.\n")
 
             Toolkit.pause_console()
 

@@ -395,7 +395,7 @@ class Toolkit():
             import json
             from distutils.version import LooseVersion
 
-            response = urlopen("https://api.github.com/repos/Bikatr7/Seisen/releases/latest")
+            response = urlopen("https://api.github.com/repos/ktbilyeu/Seisen/releases/latest")
             data = json.loads(response.read().decode())
 
             latest_version = str(data["tag_name"])
@@ -403,7 +403,7 @@ class Toolkit():
 
             if(LooseVersion(latest_version) > LooseVersion(Toolkit.CURRENT_VERSION)):
 
-                update_prompt += "There is a new update for Seisen (" + latest_version + ")\nIt is recommended that you use the latest version of Seisen\nYou can download it at https://github.com/Bikatr7/Seisen/releases/latest \n"
+                update_prompt += "There is a new update for Seisen (" + latest_version + ")\nIt is recommended that you use the latest version of Seisen\nYou can download it at https://github.com/ktbilyeu/Seisen/releases/latest \n"
 
                 if(release_notes):
                     update_prompt += "\nRelease notes:\n\n" + release_notes + '\n'

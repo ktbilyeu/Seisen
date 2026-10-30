@@ -97,8 +97,8 @@ Please note that this information is a brief summary of the GPL. For a detailed 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **Contact**<a name="contact"></a>
 
-If you have any questions, comments, or concerns, please feel free to contact me at [Bikatr7@proton.me](mailto:Bikatr7@proton.me)
+If you have any questions, comments, or concerns, please feel free to contact me at [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)
 
-For any bugs or suggestions please use this issues tab [here](https://github.com/Bikatr7/Seisen/issues).
+For any bugs or suggestions please use this issues tab [here](https://github.com/ktbilyeu/Seisen/issues).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
